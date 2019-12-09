@@ -16,6 +16,6 @@
             2.https://www.dropbox.com/home/hw7?preview=arr2.jpg
         3. Challange 3
             1. …
-            2. …
+            2. ….
 2
     3. other tags
